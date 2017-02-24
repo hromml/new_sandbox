@@ -1,7 +1,7 @@
 package ru.hromml.qa.sandbox;
 
-public class my {
-	public static void main(String[] args){
-		System.out.println("Hello world!!!!!");
-	}
+public class My {
+    public static void main(String[] args) {
+        System.out.println("Hello world!!!!!");
+    }
 }
